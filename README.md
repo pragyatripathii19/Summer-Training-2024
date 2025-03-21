@@ -4,7 +4,7 @@
 During this internship, I developed a **Bash script for a master session**, optimizing control of active SSH-Console server sessions on Optical Network Units (ONU). 
 
 ## Technologies & Tools Used  
-- **Networking:** PON, XGSPON  
+- **Networking:** ONU, PON, XGSPON  
 - **Programming:** Bash Scripting, Embedded C  
 - **System Tools:** SSH, Telnet, TigerVNC, MobaXterm  
 - **Version Control & Documentation:** Git, Bitbucket, Confluence  
